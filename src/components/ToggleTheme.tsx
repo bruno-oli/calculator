@@ -10,7 +10,7 @@ const Wrapper = styled.div`
   gap: 1rem;
   cursor: pointer;
   & > span {
-    color: ${(props) => props.theme.colors.primaryTextColor};
+    color: ${(props) => props.theme.colors.secondaryTextColor};
     font-size: 0.8rem;
     letter-spacing: 0.2rem;
   }

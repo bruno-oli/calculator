@@ -5,7 +5,7 @@ const Container = styled.main`
   padding: 30px 25px;
   display: flex;
   flex-direction: column;
-  gap: 20px;
+  gap: 30px;
 `;
 
 export default Container;

@@ -17,8 +17,8 @@ const firstTheme = {
     getResultKeyShadow: "hsl(6, 70%, 34%)",
 
     // * Text
-    primaryTextColor: "hsl(0, 0%, 100%)",
-    secondaryTextColor: "hsl(221, 14%, 31%)",
+    primaryTextColor: "hsl(221, 14%, 31%)",
+    secondaryTextColor: "hsl(0, 0%, 100%)",
     tertiaryTextColor: "hsl(0, 0%, 100%)",
   },
 };

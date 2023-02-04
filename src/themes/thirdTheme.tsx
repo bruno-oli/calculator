@@ -18,8 +18,8 @@ const thirdTheme = {
 
     // * Text
     primaryTextColor: "hsl(52, 100%, 62%)",
-    secondaryTextColor: "hsl(0, 0%, 100%)",
-    tertiaryTextColor: "hsl(198, 20%, 13%)",
+    secondaryTextColor: "hsl(52, 100%, 62%)",
+    tertiaryTextColor: "hsl(52, 100%, 62%)",
   },
 };
 

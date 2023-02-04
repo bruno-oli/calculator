@@ -7,7 +7,7 @@ const Wrapper = styled.div`
   justify-content: space-between;
   align-items: center;
   h1 {
-    color: ${props => props.theme.colors.primaryTextColor};
+    color: ${props => props.theme.colors.tertiaryTextColor};
   }
 `
 
