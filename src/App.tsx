@@ -8,6 +8,7 @@ import Header from "./components/Header";
 import ResultBox from "./components/ResultBox";
 import NumbersProvider from "./contexts/NumbersContext";
 import KeysBox from "./components/KeysBox";
+import { ToastContainer } from "react-toastify";
 
 function App() {
   const { theme } = useContext(ThemeAppContext);
@@ -20,6 +21,7 @@ function App() {
           <ResultBox />
           <KeysBox />
         </NumbersProvider>
+        <ToastContainer className={"errorMessage"} />
       </Container>
     </ThemeProvider>
   );
